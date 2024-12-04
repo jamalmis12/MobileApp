@@ -1,0 +1,4 @@
+flask
+onnxruntime
+numpy
+gunicorn  # Add this for Heroku deployment
